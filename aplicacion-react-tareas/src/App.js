@@ -9,6 +9,9 @@ function App() {
 src={freeCodeCampLogo} 
   className='freecodecamp-logo' />
      </div>
+     <div>
+      
+     </div>
     </div>
   );
 }
